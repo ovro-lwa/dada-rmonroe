@@ -1,0 +1,7 @@
+To compile in the current directory:
+./setup.py build_ext --inplace
+
+For useage see:
+example1.cc
+example1.py
+example2.py
